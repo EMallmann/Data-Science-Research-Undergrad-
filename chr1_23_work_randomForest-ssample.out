@@ -1,0 +1,23 @@
+[1] "done load"
+           used  (Mb) gc trigger  (Mb) max used  (Mb)
+Ncells  1672646  89.4    2577111 137.7  2577111 137.7
+Vcells 30594011 233.5   43758467 333.9 30693773 234.2
+[1] "cbind"
+[1] "resid"
+[1] "merge"
+[1] "done merge"
+[1] "seed"
+           used  (Mb) gc trigger  (Mb)  max used  (Mb)
+Ncells  1737000  92.8    3301720 176.4   3301720 176.4
+Vcells 25007712 190.8   90910914 693.6 103837448 792.3
+[1] "start_forest"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2789241   149.0    7826807   418.0    7826807   418.0
+Vcells 2147620453 16385.1 3092953529 23597.4 2148853089 16394.5
+[1] "done_forest"
+[1] "start varimp"
+[1] "done varimp"
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2790676   149.1    7826807   418.0    7826807   418.0
+Vcells 2147719692 16385.9 3711624234 28317.5 3711623965 28317.5
+[1] "write csv"

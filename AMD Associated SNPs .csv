@@ -1,0 +1,231 @@
+SNP,PMID,Title,Date,Pvalue,ORvalue,Ethnicity,Patient group Size,Control group Size,Frequency,Text Evidence,Used in Regression Indicator
+rs2230299,26505407,Association between a functional genetic polymorphism (rs2230199) and age-related macular degeneration risk: a meta-analysis.,10/16/2015,0,1.571, Caucasian Asian,5593,5181,3,+,
+rs833061,24522370,Predictive value of VEGF A and VEGFR2 polymorphisms in the response to intravitreal ranibizumab treatment for wet AMD.,2/13/2014,0, , ,94, ,7,+,
+rs390679,28343170,"miRNAs, single nucleotide polymorphisms (SNPs) and age-related macular degeneration (AMD).",,2.14E-214, , , , ,1,+,
+rs1061170,22253316,"Complement factor H genetic variant and age-related macular degeneration: effect size, modifiers and relationship to disease subtype.",1/13/2012,1.10E-161, , European,14174,26494,39,+,
+rs1045216,28343170,"miRNAs, single nucleotide polymorphisms (SNPs) and age-related macular degeneration (AMD).",,4.17E-142, , , , ,1,+,
+rs429608,20861866,Genome-wide association identifies SKIV2L and MYRIP as protective factors for age-related macular degeneration.,9/23/2010,2.30E-64, , ,2,1866,9,+,
+rs2672603,28343170,"miRNAs, single nucleotide polymorphisms (SNPs) and age-related macular degeneration (AMD).",,7.14E-46, , , , ,1,+,
+rs4151672,28343170,"miRNAs, single nucleotide polymorphisms (SNPs) and age-related macular degeneration (AMD).",,8.91E-41, , , , ,1,+,
+rs2075650,23326517,Insights into the genetic architecture of early stage age-related macular degeneration: a genome-wide association study meta-analysis.,1/11/2013,1.50E-31, , Sonic, ,484,7,+,not in regression
+rs10490924,17884985,"A variant of mitochondrial protein LOC387715/ARMS2, not HTRA1, is strongly associated with age-related macular degeneration.",9/20/2007,5.30E-30, , , , ,57,+,
+rs12140421,28343170,"miRNAs, single nucleotide polymorphisms (SNPs) and age-related macular degeneration (AMD).",,4.63E-29, , , , ,1,+,
+rs3750847,21909106,Genome-wide association study identifies two susceptibility loci for exudative age-related macular degeneration in the Japanese population.,9/11/2011,8.67E-29,1.3, Japanese, ,18894,2,+,
+rs2303790,25629512,New loci and coding variants confer risk for age-related macular degeneration in East Asians.,1/28/2015,5.60E-22,1.7, Europeans Asians East Asian East Asians,4226,10289,2,+,
+rs800292,21909106,Genome-wide association study identifies two susceptibility loci for exudative age-related macular degeneration in the Japanese population.,9/11/2011,4.23E-15,0.73, Japanese, ,18894,19,+,
+rs11200638,18316707,HTRA1 variants in exudative age-related macular degeneration and interactions with smoking and CFH.,3/3/2008,1.70E-14, , ,183, ,42,+,
+rs2672598,18316707,HTRA1 variants in exudative age-related macular degeneration and interactions with smoking and CFH.,3/3/2008,1.70E-14, , ,183, ,8,+,
+rs1049331102C,18316707,HTRA1 variants in exudative age-related macular degeneration and interactions with smoking and CFH.,3/3/2008,1.70E-14, , ,183, ,1,+,
+rs2293870108G,18316707,HTRA1 variants in exudative age-related macular degeneration and interactions with smoking and CFH.,3/3/2008,1.70E-14, , ,183, ,1,+,
+rs1063355,28343170,"miRNAs, single nucleotide polymorphisms (SNPs) and age-related macular degeneration (AMD).",,6.82E-14, , , , ,1,+,
+rs1410996,21856016,Association assessment of copy number polymorphism and risk of age-related macular degeneration.,,1.30E-13, , Caucasians,421, ,15,+,
+rs3793917,20445115,An intergenic region between the tagSNP rs3793917 and rs11200638 in the HTRA1 gene indicates association with age-related macular degeneration.,5/5/2010,2.80E-13, , Australian, , ,5,+,
+rs4151667,27241480,A Novel Complotype Combination Associates with Age-Related Macular Degeneration and High Complement Activation Levels in vivo.,5/31/2016,5.84E-13, , ,13, ,7,+,
+rs13278062,21909106,Genome-wide association study identifies two susceptibility loci for exudative age-related macular degeneration in the Japanese population.,9/11/2011,1.03E-12, , Japanese, ,18894,4,+,
+rs115404146,28343170,"miRNAs, single nucleotide polymorphisms (SNPs) and age-related macular degeneration (AMD).",,6.32E-12, , , , ,1,+,
+rs10801575,18541031,The NEI/NCBI dbGAP database: genotypes and haplotypes that may specifically predispose to risk of neovascular age-related macular degeneration.,6/9/2008,1.00E-11, , Bonferonni,268, ,1,+,
+rs2014307,18541031,The NEI/NCBI dbGAP database: genotypes and haplotypes that may specifically predispose to risk of neovascular age-related macular degeneration.,6/9/2008,1.00E-11, , Bonferonni,268, ,2,+,
+rs9274390,26733291,Common coding variants in the HLA-DQB1 region confer susceptibility to age-related macular degeneration.,1/6/2016,1.40E-11,1.21, ,4841,790,2,+,
+rs547154,19696172,The involvement of complement factor B and complement component C2 in an Indian cohort with age-related macular degeneration.,8/20/2009,5.40E-11, , Indian, , ,12,+,
+rs2672587,20445115,An intergenic region between the tagSNP rs3793917 and rs11200638 in the HTRA1 gene indicates association with age-related macular degeneration.,5/5/2010,7.70E-11, , Australian, , ,1,+,
+rs41563814,26733291,Common coding variants in the HLA-DQB1 region confer susceptibility to age-related macular degeneration.,1/6/2016,3.90E-10,1.22, ,4841,790,2,+,
+rs2274700,18043728,Haplotypes in the complement factor H (CFH) gene: associations with drusen and advanced age-related macular degeneration.,11/28/2007,1.00E-09, , Western, , ,17,+,
+rs1061147,18043728,Haplotypes in the complement factor H (CFH) gene: associations with drusen and advanced age-related macular degeneration.,11/28/2007,1.00E-09, , Western, , ,1,+,
+rs2071277,22694956,Genome-wide association study of age-related macular degeneration identifies associated variants in the TNXB-FKBPL-NOTCH4 region of chromosome 6p21.3.,6/13/2012,1.30E-09, , Western,1411,2199,1,+,
+rs7739323,25872646,Whole-exome sequencing implicates UBE3D in age-related macular degeneration in East Asian populations.,4/15/2015,1.46E-09,0.74, East Asian,3772,6942,1,+,
+rs1055821,28343170,"miRNAs, single nucleotide polymorphisms (SNPs) and age-related macular degeneration (AMD).",,1.93E-09, , , , ,1,+,
+rs9621532,20385826,Genome-wide association study of advanced age-related macular degeneration identifies a role of the hepatic lipase gene (LIPC).,4/12/2010,3.71E-09, , ,5789,4234,4,+,
+rs6904596,27565901,Pleiotropic Analysis of Lung Cancer and Blood Triglycerides.,8/26/2016,5.20E-09, , ,113,657,4,+,
+rs641153,27241480,A Novel Complotype Combination Associates with Age-Related Macular Degeneration and High Complement Activation Levels in vivo.,5/31/2016,8.31E-09, , ,13, ,12,+,
+rs4711751,21665990,Common variants near FRK/COL10A1 and VEGFA are associated with advanced age-related macular degeneration.,6/10/2011,8.70E-09,1.15, ,5640,174,1,+,
+rs1999930,21665990,Common variants near FRK/COL10A1 and VEGFA are associated with advanced age-related macular degeneration.,6/10/2011,1.10E-08,0.87, ,5640,174,1,+,
+rs10468017,20385826,Genome-wide association study of advanced age-related macular degeneration identifies a role of the hepatic lipase gene (LIPC).,4/12/2010,1.34E-08, , ,5789,4234,10,+,
+rs2059614,25890600,Identification of novel genetic markers of breast cancer survival.,4/18/2015,1.91E-08, , European,2113, ,1,+,
+rs58978565,29346644,Genome-wide analysis of disease progression in age-related macular degeneration.,,2.30E-08, , Caucasians, , ,1,+,
+rs1713985,21909106,Genome-wide association study identifies two susceptibility loci for exudative age-related macular degeneration in the Japanese population.,9/11/2011,2.34E-08, , Japanese, ,18894,4,+,
+rs28368872,29346644,Genome-wide analysis of disease progression in age-related macular degeneration.,,2.90E-08, , Caucasians, , ,1,+,
+rs6982567,22049084,High temperature requirement factor A1 (HTRA1) gene regulates angiogenesis through transforming growth factor-β family member growth differentiation factor 6.,11/2/2011,3.54E-08, , , , ,2,+,
+rs7518099,24002674,Genome-wide association study and meta-analysis of intraocular pressure.,9/4/2013,8.00E-08, , European, , ,1,+,
+rs8056814,28011711,Protective coding variants in CFH and PELI3 and a variant near CTRB1 are associated with age-related macular degeneration†.,,1.80E-07,0.71, European,4332,25268,1,+,
+rs12153855,22694956,Genome-wide association study of age-related macular degeneration identifies associated variants in the TNXB-FKBPL-NOTCH4 region of chromosome 6p21.3.,6/13/2012,4.30E-07,1.4, Western,1411,2199,2,+,
+rs572515,18541031,The NEI/NCBI dbGAP database: genotypes and haplotypes that may specifically predispose to risk of neovascular age-related macular degeneration.,6/9/2008,1.00E-06, , Bonferonni,268, ,1,+,
+rs2283550,21169531,Dissection of chromosome 16p12 linkage peak suggests a possible role for CACNG3 variants in age-related macular degeneration susceptibility.,3/28/2011,1.30E-06, , Caucasian, ,575,2,+,
+rs868005,25775011,The association of elastin gene variants with two angiographic subtypes of polypoidal choroidal vasculopathy.,3/16/2015,1.50E-06,1.75, ,411,350,4,+,
+rs10272438,18048322,A forest-based approach to identifying gene and gene gene interactions.,11/28/2007,2.00E-06, , , , ,2,+,
+rs7792525,24439028,Search for age-related macular degeneration risk variants in Alzheimer disease genes and pathways.,12/19/2013,2.34E-06,1.14, , , ,1,+,
+rs621313,23326517,Insights into the genetic architecture of early stage age-related macular degeneration: a genome-wide association study meta-analysis.,1/11/2013,3.50E-06, , Sonic, ,484,1,+,
+rs12144939,24675670,Impact of the common genetic associations of age-related macular degeneration upon systemic complement component C3d levels.,3/27/2014,4.60E-06, , ,1387,1268,1,+,
+rs2511989,20576771,Determination of a gene and environment risk model for age-related macular degeneration.,6/24/2010,5.13E-06,0.66, , , ,17,+,
+rs6721654,23326517,Insights into the genetic architecture of early stage age-related macular degeneration: a genome-wide association study meta-analysis.,1/11/2013,6.50E-06, , Sonic, ,484,1,+,
+rs884843,25775011,The association of elastin gene variants with two angiographic subtypes of polypoidal choroidal vasculopathy.,3/16/2015,7.40E-06, , ,411,350,1,+,
+rs2301995,25775011,The association of elastin gene variants with two angiographic subtypes of polypoidal choroidal vasculopathy.,3/16/2015,7.40E-06, , ,411,350,8,+,
+rs13239907,25775011,The association of elastin gene variants with two angiographic subtypes of polypoidal choroidal vasculopathy.,3/16/2015,7.40E-06, , ,411,350,1,+,
+rs2856728,25775011,The association of elastin gene variants with two angiographic subtypes of polypoidal choroidal vasculopathy.,3/16/2015,7.40E-06, , ,411,350,1,+,
+rs2049622,23326517,Insights into the genetic architecture of early stage age-related macular degeneration: a genome-wide association study meta-analysis.,1/11/2013,8.90E-06, , Sonic, ,484,1,+,
+rs2071590,24439028,Search for age-related macular degeneration risk variants in Alzheimer disease genes and pathways.,12/19/2013,1.17E-05,0.89, , , ,1,+,
+rs12138564,29852030,Association of Genetic Variants With Response to Anti-Vascular Endothelial Growth Factor Therapy in Age-Related Macular Degeneration.,,1.38E-05, , European,2058, ,1,+,
+rs1047286,24453474,"CFH haplotypes and ARMS2, C2, C3, and CFB alleles show association with susceptibility to age-related macular degeneration in Mexicans.",1/14/2014,1.59E-05,2.48, Mexican,48,96,4,+,
+rs17073641,23577725,Genetic factors in nonsmokers with age-related macular degeneration revealed through genome-wide gene-environment interaction analysis.,,2.73E-05,  0.57, Caucasian,1207,686,2,+,
+rs2230199,19234341,Complement component 3 (C3) haplotypes and risk of advanced age-related macular degeneration.,2/21/2009,4.10E-05, , ,1541, ,18,+,
+rs2227306,23840568,Haplotypes in IL-8 Gene Are Associated to Age-Related Macular Degeneration: A Case-Control Study.,6/19/2013,4.15E-05, , Italian,60,30,1,+,
+rs493258,20385826,Genome-wide association study of advanced age-related macular degeneration identifies a role of the hepatic lipase gene (LIPC).,4/12/2010,4.53E-05, , ,5789,4234,9,+,
+rs8070488,24439028,Search for age-related macular degeneration risk variants in Alzheimer disease genes and pathways.,12/19/2013,7.52E-05,0.91, , , ,1,+,
+rs4586,29664944,CCL2 single nucleotide polymorphism of rs1024611 implicates prominence of inflammatory cascade by univariate modeling in Indian AMD.,4/17/2018,0.0001, , ,171, ,2,+,
+rs225396,27787563,Association of ABCG1 With Neovascular Age-Related Macular Degeneration and Polypoidal Choroidal Vasculopathy in Chinese and Japanese.,,0.0001,1.35, Chinese Japanese,2435,157,2,+,
+rs1800795,26330749,Association of gene polymorphism with serum levels of inflammatory and angiogenic factors in Pakistani patients with age-related macular degeneration.,8/29/2015,0.0001, , Pakistani,90,100,1,+,
+rs3025000,23149126,Variants in the VEGFA gene and treatment outcome after anti-VEGF treatment for neovascular age-related macular degeneration.,11/11/2012,0.0001, , ,12, ,1,+,
+rs943080,25903050,Thyroid function and age-related macular degeneration: a prospective population-based cohort study--the Rotterdam Study.,4/23/2015,0.00012, , ,5573, ,5,+,
+rs3752228,24439028,Search for age-related macular degeneration risk variants in Alzheimer disease genes and pathways.,12/19/2013,0.00012,1.22, , , ,1,+,
+rs13207351,18441306,VEGF polymorphisms are associated with severity of diabetic retinopathy.,4/25/2008,0.00017, , , ,61,1,+,
+rs1570360,18441306,VEGF polymorphisms are associated with severity of diabetic retinopathy.,4/25/2008,0.00017, , , ,61,2,+,
+rs10846744,23562302,"Investigation of genetic variation in scavenger receptor class B, member 1 (SCARB1) and association with serum carotenoids.",4/5/2013,0.0002, , Sequenom,302, ,1,+,
+rs11057841,23562302,"Investigation of genetic variation in scavenger receptor class B, member 1 (SCARB1) and association with serum carotenoids.",4/5/2013,0.0002, , Sequenom,302, ,5,+,
+rs2072633,19696172,The involvement of complement factor B and complement component C2 in an Indian cohort with age-related macular degeneration.,8/20/2009,0.0002, , Indian, , ,2,+,
+rs9391734,26861912,Associations of 6p21.3 Region with Age-related Macular Degeneration and Polypoidal Choroidal Vasculopathy.,2/10/2016,0.00022,0.49, ,419,1316,2,+,
+rs11645428,23404124,Genetic determinants of macular pigments in women of the Carotenoids in Age-Related Eye Disease Study.,3/28/2013,0.00022, , , , ,4,+,
+rs78488639,25277308,"FPR1 interacts with CFH, HTRA1 and smoking in exudative age-related macular degeneration and polypoidal choroidal vasculopathy.",10/3/2014,0.000222, , Chinese,179,220,2,+,
+rs5882,23274582,Different impact of high-density lipoprotein-related genetic variants on polypoidal choroidal vasculopathy and neovascular age-related macular degeneration in a Chinese Han population.,12/26/2012,0.000273, , Asian Chinese,250,204,5,+,
+rs2679798,20861866,Genome-wide association identifies SKIV2L and MYRIP as protective factors for age-related macular degeneration.,9/23/2010,0.00029, , ,2,1866,1,+,
+rs3764261,24393350,Genes in the high-density lipoprotein metabolic pathway in age-related macular degeneration and polypoidal choroidal vasculopathy.,1/3/2014,0.000404, , Chinese,233,275,8,+,
+rs142450006,29346644,Genome-wide analysis of disease progression in age-related macular degeneration.,,0.0006, , Caucasians, , ,1,+,
+rs9309833,21998696,Influence of ROBO1 and RORA on risk of age-related macular degeneration reveals genetically distinct phenotypes in disease pathophysiology.,10/6/2011,0.0006, , Greek,293,1070,2,+,
+rs2241394,22174912,A common complement C3 variant is associated with protection against wet age-related macular degeneration in a Japanese population.,12/12/2011,0.000832,0.48, Caucasian European Japanese Chinese Asian,420,197,2,+,
+rs1329428,17167412,Association of complement factor H polymorphisms with exudative age-related macular degeneration.,12/5/2006,0.00092, , Chinese Caucasians Japanese,163,244,3,+,
+rs4149056,30010042,Evaluation of serum SLCO1B1 levels and genetic variants of SLCO1B1 rs4149056 and rs2306283 in patients with early and exudative age-related macular degeneration.,7/17/2018,0.001, , ,253,301,3,+,
+rs35292876,29410599,Geographic distribution of rare variants associated with age-related macular degeneration.,1/27/2018,0.001, , ,24, ,1,+,
+rs5743708,26398587,Toll-Like Receptors 2 and 4 Polymorphisms in Age-Related Macular Degeneration.,9/23/2015,0.001,3.88, ,5, ,1,+,
+rs4986790,26398587,Toll-Like Receptors 2 and 4 Polymorphisms in Age-Related Macular Degeneration.,9/23/2015,0.001, , ,5, ,1,+,
+rs4986791,26398587,Toll-Like Receptors 2 and 4 Polymorphisms in Age-Related Macular Degeneration.,9/23/2015,0.001, , ,5, ,1,+,
+rs1065489,25771815,"Gene-gene interaction of CFH, ARMS2, and ARMS2/HTRA1 on the risk of neovascular age-related macular degeneration and polypoidal choroidal vasculopathy in Chinese population.",3/13/2015,0.001, , Chinese,300,301,3,+,
+rs3753395,25612476,Investigating the CFH Gene Polymorphisms as a Risk Factor for Age-related Macular Degeneration in an Iranian Population.,1/23/2015,0.001, , Iranian,100, ,1,+,
+rs6564851,23891863,Candidate gene study of macular response to supplemental lutein and zeaxanthin.,7/25/2013,0.001, , ,310, ,4,+,
+rs10490923,23534868,"CFH (rs1410996), HTRA1 (rs112000638) and ARMS2 (rs10490923) gene polymorphisms are associated with AMD risk in Spanish patients.",3/27/2013,0.001, , Spanish,91, ,2,+,
+rs112000638,23534868,"CFH (rs1410996), HTRA1 (rs112000638) and ARMS2 (rs10490923) gene polymorphisms are associated with AMD risk in Spanish patients.",3/27/2013,0.001,6.2543, Spanish,91, ,1,+,
+rs8177178,23089144,An association of transferrin gene polymorphism and serum transferrin levels with age-related macular degeneration.,10/23/2012,0.001, , , ,30,1,+,
+rs9332739,22440158,CFB/C2 gene polymorphisms and risk of age-related macular degeneration: a systematic review and meta-analysis.,,0.001, , Caucasians Caucasian,8905, ,2,+,
+rs4787924,21169531,Dissection of chromosome 16p12 linkage peak suggests a possible role for CACNG3 variants in age-related macular degeneration susceptibility.,3/28/2011,0.001, , Caucasian, ,575,3,+,
+rs2250656,19899988,Association of c3 gene polymorphisms with neovascular age-related macular degeneration in a chinese population.,,0.001, , Chinese,123,130,2,+,not in regression
+rs7890586,19381347,Single nucleotide polymorphisms of the tenomodulin gene (TNMD) in age-related macular degeneration.,4/15/2009,0.001,0.083, ,113, ,1,+,
+rs438999,18806297,Further assessment of the complement component 2 and factor B region associated with age-related macular degeneration.,9/20/2008,0.001, , ,243, ,1,+,
+rs10033900,22678500,Genetic factors for choroidal neovascularization associated with high myopia.,7/27/2012,0.0011, , Caucasian,71,196,4,+,
+rs588895,19806217,rs5888 variant of SCARB1 gene is a possible susceptibility factor for age-related macular degeneration.,10/5/2009,0.0015, , French North American,85,338,1,+,
+rs3753394,18515590,"Association analysis of CFH, C2, BF, and HTRA1 gene polymorphisms in Chinese patients with polypoidal choroidal vasculopathy.",,0.0015, , Chinese Caucasians, ,93,6,+,
+rs4455855,28192798,Identification of ANGPT2 as a New Gene for Neovascular Age-Related Macular Degeneration and Polypoidal Choroidal Vasculopathy in the Chinese and Japanese Populations.,,0.0016, , Chinese Japanese,2343, ,1,+,
+rs13269021,28192798,Identification of ANGPT2 as a New Gene for Neovascular Age-Related Macular Degeneration and Polypoidal Choroidal Vasculopathy in the Chinese and Japanese Populations.,,0.0016, , Chinese Japanese,2343, ,1,+,
+rs2146323,27404493,CFH Y402H and VEGF Polymorphisms and Anti-VEGF Treatment Response in Exudative Age-Related Macular Degeneration.,7/13/2016,0.002, , Turkish,42,11,2,+,
+rs699947,27404493,CFH Y402H and VEGF Polymorphisms and Anti-VEGF Treatment Response in Exudative Age-Related Macular Degeneration.,7/13/2016,0.002, , Turkish,42,11,4,+,not in regression
+rs2227543,26330749,Association of gene polymorphism with serum levels of inflammatory and angiogenic factors in Pakistani patients with age-related macular degeneration.,8/29/2015,0.002, , Pakistani,90,100,1,+,not in regression
+rs9679290,24070809,Pharmacogenetic associations with vascular endothelial growth factor inhibition in participants with neovascular age-related macular degeneration in the IVAN Study.,9/23/2013,0.002, , , , ,1,+,not in regression
+rs10483810,23868022,RAD51 gene is associated with advanced age-related macular degeneration in Chinese population.,7/15/2013,0.002,12, Chinese,119,99,2,+,not in regression
+rs1413711,21881842,Homozygosity for the +674C>T polymorphism on VEGF gene is associated with age-related macular degeneration in a Brazilian cohort.,9/1/2011,0.002, , Brazilian, ,140,1,+,not in regression
+rs5888,19806217,rs5888 variant of SCARB1 gene is a possible susceptibility factor for age-related macular degeneration.,10/5/2009,0.002,2.9, French North American,85,338,5,+,not in regression
+rs2268615,27064391,Identification of PGF as a New Gene for Neovascular Age-Related Macular Degeneration in a Chinese Population.,,0.0022,1.38, Chinese,187,531,3,+,not in regression
+rs1801133,22065928,Analysis of candidate genes for age-related macular degeneration subtypes in the Japanese population.,10/22/2011,0.0025, , Japanese,685,277,1,+,not in regression
+rs3917751,21521525,Evaluation of variants in the selectin genes in age-related macular degeneration.,4/26/2011,0.0029, , , ,400,1,+,not in regression
+rs7412,29851526,The role of apolipoprotein E (rs7412 and rs429358) in age-related macular degeneration.,5/31/2018,0.003, , ,2133, ,1,+,not in regression
+rs429358,29851526,The role of apolipoprotein E (rs7412 and rs429358) in age-related macular degeneration.,5/31/2018,0.003, , ,2133, ,1,+,not in regression
+rs13117504,23900096,[Association of single nucleotide polymorphism in complement factor I gene with age-related macular degeneration].,,0.003,0.56, Chinese,120,140,2,+,not in regression
+rs3736265,23335958,"DNA sequence variants in PPARGC1A, a gene encoding a coactivator of the ω-3 LCPUFA sensing PPAR-RXR transcription complex, are associated with NV AMD and AMD-associated loci in genes of complement and VEGF signaling pathways.",1/15/2013,0.003, , European,3, ,3,+,not in regression
+rs3774923,23335958,"DNA sequence variants in PPARGC1A, a gene encoding a coactivator of the ω-3 LCPUFA sensing PPAR-RXR transcription complex, are associated with NV AMD and AMD-associated loci in genes of complement and VEGF signaling pathways.",1/15/2013,0.003, , European,3, ,1,+,not in regression
+rs3025033,23335958,"DNA sequence variants in PPARGC1A, a gene encoding a coactivator of the ω-3 LCPUFA sensing PPAR-RXR transcription complex, are associated with NV AMD and AMD-associated loci in genes of complement and VEGF signaling pathways.",1/15/2013,0.003, , European,3, ,1,+,not in regression
+rs8192678,23335958,"DNA sequence variants in PPARGC1A, a gene encoding a coactivator of the ω-3 LCPUFA sensing PPAR-RXR transcription complex, are associated with NV AMD and AMD-associated loci in genes of complement and VEGF signaling pathways.",1/15/2013,0.003, , European,3, ,1,+,not in regression
+rs10507386,23335958,"DNA sequence variants in PPARGC1A, a gene encoding a coactivator of the ω-3 LCPUFA sensing PPAR-RXR transcription complex, are associated with NV AMD and AMD-associated loci in genes of complement and VEGF signaling pathways.",1/15/2013,0.003, , European,3, ,1,+,not in regression
+rs12614,24519512,"Complement C3, C2, and factor B gene polymorphisms and age-related macular degeneration in a Greek cohort study.",1/30/2014,0.0031, , Greek Caucasian,120,140,1,+,not in regression
+rs12603825,21439646,Genetic variants in pigment epithelium-derived factor influence response of polypoidal choroidal vasculopathy to photodynamic therapy.,3/24/2011,0.0038, , ,167, ,2,+,not in regression
+rs121913059,29410599,Geographic distribution of rare variants associated with age-related macular degeneration.,1/27/2018,0.004, , ,24, ,1,+,not in regression
+rs3748067TT,25028103,Genetic variants of interleukin 17A are functionally associated with increased risk of age-related macular degeneration.,,0.004, , , , ,1,+,not in regression
+rs10898563,21282580,Genetic association with response to intravitreal ranibizumab in patients with neovascular AMD.,7/1/2011,0.004, , Swiss, , ,1,+,not in regression
+rs512559,23335958,"DNA sequence variants in PPARGC1A, a gene encoding a coactivator of the ω-3 LCPUFA sensing PPAR-RXR transcription complex, are associated with NV AMD and AMD-associated loci in genes of complement and VEGF signaling pathways.",1/15/2013,0.005, , European,3, ,1,+,not in regression
+rs3775291,18753640,Toll-like receptor 3 and geographic atrophy in age-related macular degeneration.,8/27/2008,0.005, , Americans European, , ,2,+,not in regression
+rs1883025,22247473,Prospective assessment of genetic effects on progression to different stages of age-related macular degeneration using multistate Markov models.,3/21/2012,0.0052, , ,2560, ,8,+,not in regression
+rs7324510,24812550,FLT1 genetic variation predisposes to neovascular AMD in ethnically diverse populations and alters systemic FLT1 expression.,5/8/2014,0.0057, , , , ,1,+,not in regression
+rs1049673,28557591,CD36 gene is associated with intraocular pressure elevation after intravitreal application of anti-VEGF agents in patients with age-related macular degeneration: Implications for the safety of the therapy.,5/30/2017,0.006, , ,134, ,2,+,not in regression
+rs1867315,23834555,Evaluating the association between pathological myopia and SNPs in RASGRF1. ACTC1 and GJD2 genes at chromosome 15q14 and 15q25 in a Chinese population.,7/8/2013,0.006, , Chinese, , ,2,+,not in regression
+rs2238498,21169531,Dissection of chromosome 16p12 linkage peak suggests a possible role for CACNG3 variants in age-related macular degeneration susceptibility.,3/28/2011,0.006, , Caucasian, ,575,1,+,not in regression
+rs2268614,27064391,Identification of PGF as a New Gene for Neovascular Age-Related Macular Degeneration in a Chinese Population.,,0.0067,1.33, Chinese,187,531,3,+,not in regression
+rs17030,25388911,Gender specific association of a complement component 3 polymorphism with polypoidal choroidal vasculopathy.,11/12/2014,0.008,2.94, ,233,275,4,+,not in regression
+rs7542235,22848687,Associations of CFH polymorphisms and CFHR1-CFHR3 deletion with blood pressure and hypertension in Chinese population.,7/25/2012,0.008, , Chinese, , ,1,+,not in regression
+rs867229,25277308,"FPR1 interacts with CFH, HTRA1 and smoking in exudative age-related macular degeneration and polypoidal choroidal vasculopathy.",10/3/2014,0.0082,0.54, Chinese,179,220,2,+,not in regression
+rs9943922,24812550,FLT1 genetic variation predisposes to neovascular AMD in ethnically diverse populations and alters systemic FLT1 expression.,5/8/2014,0.0086, , , , ,2,+,not in regression
+rs4073,26154559,The genetic variant rs4073 A→T of the Interleukin-8 promoter region is associated with the earlier onset of exudative age-related macular degeneration.,7/8/2015,0.009, , ,72,119,2,+,not in regression
+rs1532085,26624898,Effect of High-Density Lipoprotein Metabolic Pathway Gene Variations and Risk Factors on Neovascular Age-Related Macular Degeneration and Polypoidal Choroidal Vasculopathy in China.,12/1/2015,0.0094,1.393, Chinese,291,221,1,+,not in regression
+rs2071559,22919317,The rs2071559 AA VEGFR-2 genotype frequency is significantly lower in neovascular age-related macular degeneration patients.,8/1/2012,0.0095,0.42, Italian,120,78,2,+,not in regression
+rs1024611,29664944,CCL2 single nucleotide polymorphism of rs1024611 implicates prominence of inflammatory cascade by univariate modeling in Indian AMD.,4/17/2018,0.01, , ,171, ,4,+,not in regression
+rs3211931,28557591,CD36 gene is associated with intraocular pressure elevation after intravitreal application of anti-VEGF agents in patients with age-related macular degeneration: Implications for the safety of the therapy.,5/30/2017,0.01, , ,134, ,2,+,not in regression
+rs3057847,25771815,"Gene-gene interaction of CFH, ARMS2, and ARMS2/HTRA1 on the risk of neovascular age-related macular degeneration and polypoidal choroidal vasculopathy in Chinese population.",3/13/2015,0.01, , Chinese,300,301,1,+,not in regression
+rs344555,25388911,Gender specific association of a complement component 3 polymorphism with polypoidal choroidal vasculopathy.,11/12/2014,0.01, , ,233,275,1,+,not in regression
+rs6420424,24586510,The relationship between BCMO1 gene variants and macular pigment optical density in persons with and without age-related macular degeneration.,2/19/2014,0.01, , ,24,20,3,+,not in regression
+rs4576072,24365177,Polymorphisms in vascular endothelial growth factor receptor 2 are associated with better response rates to ranibizumab treatment in age-related macular degeneration.,12/21/2013,0.01, , ,366, ,2,+,not in regression
+rs6828477,24365177,Polymorphisms in vascular endothelial growth factor receptor 2 are associated with better response rates to ranibizumab treatment in age-related macular degeneration.,12/21/2013,0.01, , ,366, ,1,+,not in regression
+rs4481157,23089144,An association of transferrin gene polymorphism and serum transferrin levels with age-related macular degeneration.,10/23/2012,0.01, , , ,30,3,+,not in regression
+rs141853578,29392637,Association of polymorphisms of complement factor I rs141853578 (G119R) with age-related macular degeneration in Iranian population.,2/1/2018,0.018,1.51, Iranian,220,151,2,+,not in regression
+rs3793784,21072178,The ERCC6 gene and age-related macular degeneration.,11/1/2010,0.018, , Dutch Caucasian,2682,3152,1,+,not in regression
+rs2070746,25277308,"FPR1 interacts with CFH, HTRA1 and smoking in exudative age-related macular degeneration and polypoidal choroidal vasculopathy.",10/3/2014,0.019,0.57, Chinese,179,220,1,+,not in regression
+rs1695,22487578,Association of glutathione S-transferase pi isoform single-nucleotide polymorphisms with exudative age-related macular degeneration in a Chinese population.,,0.019, , Chinese,131,138,3,+,not in regression
+rs1138272,22487578,Association of glutathione S-transferase pi isoform single-nucleotide polymorphisms with exudative age-related macular degeneration in a Chinese population.,,0.019, , Chinese,131,138,3,+,not in regression
+rs17623531,19933179,Inverse association of female hormone replacement therapy with age-related macular degeneration and interactions with ARMS2 polymorphisms.,11/20/2009,0.019, , , , ,1,+,not in regression
+rs3800787,26914548,ENOS polymorphisms in neovascular age-related macular degeneration and polypoidal choroidal vasculopathy in a Chinese Han population.,2/25/2016,0.0192, , Chinese,250,204,1,+,not in regression
+rs10737680,27832277,Progression Rate From Intermediate to Advanced Age-Related Macular Degeneration Is Correlated With the Number of Risk Alleles at the CFH Locus.,,0.02, , , , ,1,+,not in regression
+rs179008,18385087,Toll-like receptor polymorphisms and age-related macular degeneration.,,0.02, , ,577, ,1,+,not in regression
+rs708272,28918250,Associations of cholesteryl ester transfer protein (CETP) gene variants with predisposition to age-related macular degeneration.,9/14/2017,0.021, , Lithuanian,206,807,5,+,not in regression
+rs3732379,26464724,CX3CR1 polymorphisms and the risk of age-related macular degeneration.,8/1/2015,0.021,2.076, ,102,115,5,+,not in regression
+rs1155974,19381347,Single nucleotide polymorphisms of the tenomodulin gene (TNMD) in age-related macular degeneration.,4/15/2009,0.021, , ,113, ,2,+,not in regression
+rs2073163,19381347,Single nucleotide polymorphisms of the tenomodulin gene (TNMD) in age-related macular degeneration.,4/15/2009,0.022, , ,113, ,2,+,not in regression
+rs2275913AA,25028103,Genetic variants of interleukin 17A are functionally associated with increased risk of age-related macular degeneration.,,0.023, , , , ,1,+,not in regression
+rs12594956,24059022,Association between the 25129A > C polymorphism of the nuclear respiratory factor 2 gene and age-related macular degeneration.,,0.023,1.96, ,281,105,1,+,not in regression
+rs3732378,26464724,CX3CR1 polymorphisms and the risk of age-related macular degeneration.,8/1/2015,0.025, , ,102,115,2,+,not in regression
+rs1800624,29317590,The Association Between Variants of Receptor for Advanced Glycation End Products (RAGE) Gene Polymorphisms and Age-Related Macular Degeneration.,1/10/2018,0.028,0.701, ,300,800,2,+,not in regression
+rs3826945,22003108,Complement factor D in age-related macular degeneration.,11/11/2011,0.028,1.44, ,751,474,2,+,not in regression
+rs1387665,21998696,Influence of ROBO1 and RORA on risk of age-related macular degeneration reveals genetically distinct phenotypes in disease pathophysiology.,10/6/2011,0.028, , Greek,293,1070,1,+,not in regression
+rs2010963,20678803,Complement factor H and high-temperature requirement A-1 genotypes and treatment response of age-related macular degeneration.,8/3/2010,0.029, , Japanese, , ,1,+,not in regression
+rs12150053,20678803,Complement factor H and high-temperature requirement A-1 genotypes and treatment response of age-related macular degeneration.,8/3/2010,0.029, , Japanese, , ,1,+,not in regression
+rs12948385,20678803,Complement factor H and high-temperature requirement A-1 genotypes and treatment response of age-related macular degeneration.,8/3/2010,0.029, , Japanese, , ,1,+,not in regression
+rs9913583,20678803,Complement factor H and high-temperature requirement A-1 genotypes and treatment response of age-related macular degeneration.,8/3/2010,0.029, , Japanese, , ,1,+,not in regression
+rs1136287,20678803,Complement factor H and high-temperature requirement A-1 genotypes and treatment response of age-related macular degeneration.,8/3/2010,0.029, , Japanese, , ,3,+,not in regression
+rs57137919,24393350,Genes in the high-density lipoprotein metabolic pathway in age-related macular degeneration and polypoidal choroidal vasculopathy.,1/3/2014,0.03, , Chinese,233,275,1,+,not in regression
+rs2235611,21309690,"Splicing factor polymorphisms, the control of VEGF isoforms and association with angiogenic eye disease.",2/10/2011,0.03, , ,69,95,1,+,not in regression
+rs2070664,23834555,Evaluating the association between pathological myopia and SNPs in RASGRF1. ACTC1 and GJD2 genes at chromosome 15q14 and 15q25 in a Chinese population.,7/8/2013,0.032, , Chinese, , ,1,+,not in regression
+rs2230205,19899988,Association of c3 gene polymorphisms with neovascular age-related macular degeneration in a chinese population.,,0.033,0.58, Chinese,123,130,1,+,not in regression
+rs9582036,26914796,Evaluating VEGFR1 genetic polymorphisms as a predisposition to AMD in a cohort from northern China.,2/25/2016,0.035, , ,432,906,2,+,not in regression
+rs9554320,26914796,Evaluating VEGFR1 genetic polymorphisms as a predisposition to AMD in a cohort from northern China.,2/25/2016,0.035, , ,432,906,1,+,not in regression
+rs9554322,26914796,Evaluating VEGFR1 genetic polymorphisms as a predisposition to AMD in a cohort from northern China.,2/25/2016,0.035, , ,432,906,1,+,not in regression
+rs8072199,20374233,Analysis of single nucleotide polymorphisms in the NOS2A gene and interaction with smoking in age-related macular degeneration.,3/31/2010,0.035,1.3, Caucasian,712,286,1,+,not in regression
+rs2248814,20374233,Analysis of single nucleotide polymorphisms in the NOS2A gene and interaction with smoking in age-related macular degeneration.,3/31/2010,0.037, , Caucasian,712,286,1,+,not in regression
+rs3025039,26330749,Association of gene polymorphism with serum levels of inflammatory and angiogenic factors in Pakistani patients with age-related macular degeneration.,8/29/2015,0.038, , Pakistani,90,100,2,+,not in regression
+rs2736911,18688167,Polymorphisms in the LOC387715/ARMS2 putative gene and the risk for Alzheimer's disease.,8/7/2008,0.038,0.631, ,213,149,1,+,not in regression
+rs1042229,25277308,"FPR1 interacts with CFH, HTRA1 and smoking in exudative age-related macular degeneration and polypoidal choroidal vasculopathy.",10/3/2014,0.0394,2.27, Chinese,179,220,1,+,not in regression
+rs6795735,24675670,Impact of the common genetic associations of age-related macular degeneration upon systemic complement component C3d levels.,3/27/2014,0.04, , ,1387,1268,1,+,not in regression
+rs754203,22977134,Single nucleotide polymorphism in the cholesterol-24S-hydroxylase (CYP46A1) gene and its association with CFH and LOC387715 gene polymorphisms in age-related macular degeneration.,10/9/2012,0.04, , ,1388,487,3,+,not in regression
+rs1761667,28557591,CD36 gene is associated with intraocular pressure elevation after intravitreal application of anti-VEGF agents in patients with age-related macular degeneration: Implications for the safety of the therapy.,5/30/2017,0.043, , ,134, ,2,+,not in regression
+rs699946,21744122,VEGF gene polymorphism and response to intravitreal bevacizumab and triple therapy in age-related macular degeneration.,7/9/2011,0.044, , ,79, ,1,+,not in regression
+rs670957A,23834555,Evaluating the association between pathological myopia and SNPs in RASGRF1. ACTC1 and GJD2 genes at chromosome 15q14 and 15q25 in a Chinese population.,7/8/2013,0.045, , Chinese, , ,1,+,not in regression
+rs1800775,28918250,Associations of cholesteryl ester transfer protein (CETP) gene variants with predisposition to age-related macular degeneration.,9/14/2017,0.046, , Lithuanian,206,807,2,+,not in regression
+rs1531289,23030506,Single nucleotide polymorphism and serum levels of VEGFR2 are associated with age related macular degeneration.,,0.047,2.13, Indian,176, ,1,+,not in regression
+rs10753929,22387454,Adiponectin receptor 1 gene (ADIPOR1) variant is associated with advanced age-related macular degeneration in Finnish population.,2/25/2012,0.0471,1, Adiponectin Finnish,111, ,1,+,not in regression
+rs1800625,29317590,The Association Between Variants of Receptor for Advanced Glycation End Products (RAGE) Gene Polymorphisms and Age-Related Macular Degeneration.,1/10/2018,0.048,1.545, ,300,800,2,+,not in regression
+rs2808635,19692124,Complement factor H Y402H and C-reactive protein polymorphism and photodynamic therapy response in age-related macular degeneration.,8/18/2009,0.048, , ,273, ,1,+,not in regression
+rs876538,19692124,Complement factor H Y402H and C-reactive protein polymorphism and photodynamic therapy response in age-related macular degeneration.,8/18/2009,0.048, , ,273, ,1,+,not in regression
+rs243865,29582818,Association of exudative age-related macular degeneration with matrix metalloproteinases-2 (-1306 C/T) rs243865 gene polymorphism.,,0.05, , ,267,318,2,+,not in regression
+rs13095226,27643879,Evaluation of 10 AMD Associated Polymorphisms as a Cause of Choroidal Neovascularization in Highly Myopic Eyes.,9/19/2016,0.05, , Caucasian Spanish,431, ,2,+,not in regression
+rs669676,27643879,Evaluation of 10 AMD Associated Polymorphisms as a Cause of Choroidal Neovascularization in Highly Myopic Eyes.,9/19/2016,0.05, , Caucasian Spanish,431, ,1,+,not in regression
+rs7747909,26765636,Functional single nucleotide polymorphism in IL-17A 3' untranslated region is targeted by miR-4480 in vitro and may be associated with age-related macular degeneration.,9/10/2015,0.05, , Caucasian, , ,1,+,not in regression
+rs393955,26681391,Reticular Pseudodrusen and Their Association with Age-Related Macular Degeneration: The Melbourne Collaborative Cohort Study.,12/8/2015,0.05, , ,21130, ,1,+,not in regression
+rs12778366,26656366,Single Nucleotide Polymorphisms of the Sirtuin 1 (SIRT1) Gene are Associated With age-Related Macular Degeneration in Chinese Han Individuals: A Case-Control Pilot Study.,,0.05, , Chinese, , ,2,+,not in regression
+rs3740051,26656366,Single Nucleotide Polymorphisms of the Sirtuin 1 (SIRT1) Gene are Associated With age-Related Macular Degeneration in Chinese Han Individuals: A Case-Control Pilot Study.,,0.05, , Chinese, , ,1,+,not in regression
+rs4746720,26656366,Single Nucleotide Polymorphisms of the Sirtuin 1 (SIRT1) Gene are Associated With age-Related Macular Degeneration in Chinese Han Individuals: A Case-Control Pilot Study.,,0.05, , Chinese, , ,1,+,not in regression
+rs328,25205864,Genetic determinants of age-related macular degeneration in diverse populations from the PAGE study.,9/9/2014,0.05, , European Americans African Mexican Singaporeans African Americans, , ,1,+,not in regression
+rs6987702,25205864,Genetic determinants of age-related macular degeneration in diverse populations from the PAGE study.,9/9/2014,0.05, , European Americans African Mexican Singaporeans African Americans, , ,1,+,not in regression
+rs2338104,25205864,Genetic determinants of age-related macular degeneration in diverse populations from the PAGE study.,9/9/2014,0.05, , European Americans African Mexican Singaporeans African Americans, , ,1,+,not in regression
+rs12678919,24498989,CETP Gene may be Associated with Advanced Age-Related Macular Degeneration in the Chinese Population.,2/5/2014,0.05, , Chinese,119,99,2,+,not in regression
+rs4926339,23891863,Candidate gene study of macular response to supplemental lutein and zeaxanthin.,7/25/2013,0.05, , ,310, ,1,+,not in regression
+rs1929841,23891863,Candidate gene study of macular response to supplemental lutein and zeaxanthin.,7/25/2013,0.05, , ,310, ,1,+,not in regression
+rs174534,23891863,Candidate gene study of macular response to supplemental lutein and zeaxanthin.,7/25/2013,0.05, , ,310, ,1,+,not in regression
+rs9542236,23868022,RAD51 gene is associated with advanced age-related macular degeneration in Chinese population.,7/15/2013,0.05, , Chinese,119,99,1,+,not in regression
+rs2285714,23112570,Suggestive association between PLA2G12A single nucleotide polymorphism rs2285714 and response to anti-vascular endothelial growth factor therapy in patients with exudative age-related macular degeneration.,10/20/2012,0.05, , ,106, ,4,+,not in regression
+rs79,23112570,Suggestive association between PLA2G12A single nucleotide polymorphism rs2285714 and response to anti-vascular endothelial growth factor therapy in patients with exudative age-related macular degeneration.,10/20/2012,0.05, , ,106, ,1,+,not in regression
+rs57,23112570,Suggestive association between PLA2G12A single nucleotide polymorphism rs2285714 and response to anti-vascular endothelial growth factor therapy in patients with exudative age-related macular degeneration.,10/20/2012,0.05, , ,106, ,1,+,not in regression
+rs11200138,22800422,[Interaction of susceptibility genes in patients with exudative age-related macular degeneration].,,0.05, , Chinese,150,161,2,+,not in regression
+rs541862,22232432,Significance of C2/CFB variants in age-related macular degeneration and polypoidal choroidal vasculopathy in a Japanese population.,2/16/2012,0.05, , Japanese,336,865,1,+,not in regression
+rs8034864,21998696,Influence of ROBO1 and RORA on risk of age-related macular degeneration reveals genetically distinct phenotypes in disease pathophysiology.,10/6/2011,0.05, , Greek,293,1070,1,+,not in regression
+rs7501331,21091228,Genetic variants in BCMO1 and CD36 are associated with plasma lutein concentrations and macular pigment optical density in humans.,11/22/2010,0.05, , ,622, ,2,+,not in regression
+rs13230419,21091228,Genetic variants in BCMO1 and CD36 are associated with plasma lutein concentrations and macular pigment optical density in humans.,11/22/2010,0.05, , ,622, ,1,+,not in regression
